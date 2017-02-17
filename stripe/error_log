@@ -1,0 +1,3 @@
+[29-Aug-2015 07:50:35 Europe/Dublin] PHP Warning:  passthru() has been disabled for security reasons in /home/thesoun1/public_html/salesamerica/stripe/build.php on line 15
+[23-Dec-2015 00:14:30 Europe/Dublin] PHP Warning:  passthru() has been disabled for security reasons in /home/thesoun1/public_html/placeadz/buy_advert/stripe/build.php on line 15
+[31-Mar-2016 06:10:16 Europe/Dublin] PHP Warning:  passthru() has been disabled for security reasons in /home/thesoun1/public_html/placeadz/buy_advert/stripe/build.php on line 15

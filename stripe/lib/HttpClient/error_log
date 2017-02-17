@@ -1,0 +1,7 @@
+[30-Aug-2015 12:53:20 Europe/Dublin] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home/thesoun1/public_html/salesamerica/stripe/lib/HttpClient/CurlClient.php on line 10
+[30-Aug-2015 21:19:37 Europe/Dublin] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home/thesoun1/public_html/salesamerica/stripe/lib/HttpClient/CurlClient.php on line 10
+[31-Aug-2015 15:31:02 Europe/Dublin] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home/thesoun1/public_html/salesamerica/stripe/lib/HttpClient/CurlClient.php on line 10
+[22-Mar-2016 02:36:27 Europe/Dublin] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home/thesoun1/public_html/placeadz/buy_advert/stripe/lib/HttpClient/CurlClient.php on line 10
+[22-Mar-2016 11:09:33 Europe/Dublin] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home/thesoun1/public_html/placeadz/buy_advert/stripe/lib/HttpClient/CurlClient.php on line 10
+[22-Mar-2016 18:47:39 Europe/Dublin] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home/thesoun1/public_html/placeadz/buy_advert/stripe/lib/HttpClient/CurlClient.php on line 10
+[23-Mar-2016 19:27:01 Europe/Dublin] PHP Fatal error:  Interface 'Stripe\HttpClient\ClientInterface' not found in /home/thesoun1/public_html/placeadz/buy_advert/stripe/lib/HttpClient/CurlClient.php on line 10
